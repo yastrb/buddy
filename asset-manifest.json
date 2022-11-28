@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/buddy/static/css/main.0cdcc055.css",
+    "main.js": "/buddy/static/js/main.9a10b90d.js",
+    "static/media/avatar_2.jpg": "/buddy/static/media/avatar_2.f9426e92e04045204fa0.jpg",
+    "index.html": "/buddy/index.html",
+    "main.0cdcc055.css.map": "/buddy/static/css/main.0cdcc055.css.map",
+    "main.9a10b90d.js.map": "/buddy/static/js/main.9a10b90d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cdcc055.css",
+    "static/js/main.9a10b90d.js"
+  ]
+}
